@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1551811355 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p6_20170104_20170178_20170204_2\main.cpp
+	<iostream>
+	<StudentName.h>
+
+1551811355 e:\fci\second year\second term\data structure\assignments\assignment1\a1_p6_20170104_20170178_20170204_2\include\studentname.h
+	<cstring>
+	<iostream>
+
+1551811355 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p6_20170104_20170178_20170204_2\src\studentname.cpp
+	"StudentName.h"
+	<iostream>
+	<cstring>
+	<vector>
+
+1551954162 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p6_20170104_20170178_20170204\src\studentname.cpp
+	"StudentName.h"
+	<iostream>
+	<cstring>
+	<vector>
+
+1551951043 e:\fci\second year\second term\data structure\assignments\assignment1\a1_p6_20170104_20170178_20170204\include\studentname.h
+	<cstring>
+	<iostream>
+
+1562619462 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p6_20170104_20170178_20170204\main.cpp
+	<iostream>
+	<StudentName.h>
+	<vector>
+
